@@ -25,4 +25,5 @@ laliga['League'] = laliga['League'].map(leagues)
 portugal['League'] = portugal['League'].map(leagues)
 prem['League'] = prem['League'].map(leagues)
 
+bundesliga.head()
 #Create a list of names and their id number: and then use that list to give ID numbers to prem
